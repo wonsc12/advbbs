@@ -17,6 +17,7 @@
   //iconv_substr(대상,start, length, charset);
   $abc2 = iconv_substr($abc,0,5,'utf-8');
   echo $abc2;
+  
 ?>
 
 <!DOCTYPE html>
